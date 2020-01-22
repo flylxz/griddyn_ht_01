@@ -1,5 +1,7 @@
 # griddynamics_hw_01
 
+![image](https://github.com/flylxz/griddyn_ht_01/blob/master/images/Screenshot_1579716073.png)
+
 A new Flutter application.
 
 ## Getting Started
