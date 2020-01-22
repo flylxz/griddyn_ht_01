@@ -1,6 +1,6 @@
 # griddynamics_hw_01
 
-![image](https://github.com/flylxz/griddyn_ht_01/blob/master/images/Screenshot_1579716073.png)
+<img src='https://github.com/flylxz/griddyn_ht_01/blob/master/images/Screenshot_1579716073.png' width=400 />
 
 A new Flutter application.
 
